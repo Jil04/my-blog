@@ -182,7 +182,7 @@
     margin: 10px;
     border: 2px solid rgb(133, 133, 133);
     float: right;
-    width: 300px;
+    width: 100%;
     height: 90%;
     align-self: center;
   }
@@ -191,8 +191,8 @@
     margin: 10px;
     border: 2px solid rgb(133, 133, 133);
     float: right;
-    width:50%;
-    height: 80%;
+    width: 100%;
+    height: 90%;
   }
   
   div.gallery:hover {
