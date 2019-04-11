@@ -184,6 +184,7 @@
     float: right;
     width: 300px;
     height: 90%;
+    align-self: center;
   }
   
   div.gallery {
